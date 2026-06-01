@@ -50,7 +50,7 @@ A Streamlit web app is built for real-time prediction.
 ---
 
 ## 📁 Project Structure
-...
+
 Twitter-Sentiment-Analysis/
 │
 ├── app/
@@ -68,7 +68,7 @@ Twitter-Sentiment-Analysis/
 │
 ├── README.md
 ├── requirements.txt
-...
+
 
 ---
 
