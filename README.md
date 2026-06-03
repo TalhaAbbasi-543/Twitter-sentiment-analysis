@@ -53,21 +53,21 @@ A Streamlit web app is built for real-time prediction.
 
 Twitter-Sentiment-Analysis/
 │
-├── app/
-│ ├── app.py
-│ ├── sentiment_model.pkl
-│ └── tfidf_vectorizer.pkl
-│
-├── notebooks/
-│ ├── 01_data_loading.ipynb
-│ ├── 02_data_preprocessing.ipynb
-│ └── 03_model_training.ipynb
-│
-├── images/
-│ └── app_screenshot.png
-│
 ├── README.md
 ├── requirements.txt
+│
+├── app/
+│   ├── app.py
+│   ├── sentiment_model.pkl
+│   └── tfidf_vectorizer.pkl
+│
+├── notebooks/
+│   ├── 01_data_loading.ipynb
+│   ├── 02_data_preprocessing.ipynb
+│   └── 03_model_training.ipynb
+│
+├── images/
+│   └── app_screenshot.png
 
 ## 📸 Demo Streamlit Screenshot
 
