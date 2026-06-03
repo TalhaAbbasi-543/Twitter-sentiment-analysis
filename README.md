@@ -69,6 +69,8 @@ Twitter-Sentiment-Analysis/
 ├── README.md
 ├── requirements.txt
 
+📸 Demo Streamlit Screenshot
+![image alt]([images/app.png](https://github.com/TalhaAbbasi-543/Twitter-sentiment-analysis/blob/fcfed5016fccce69947841981ef463b03692f249/images/app.png.png))
 
 ---
 
@@ -87,9 +89,6 @@ pandas
 numpy
 scikit-learn
 nltk
-
-📸 Demo Streamlit Screenshot
-![image alt]([images/app.png](https://github.com/TalhaAbbasi-543/Twitter-sentiment-analysis/blob/fcfed5016fccce69947841981ef463b03692f249/images/app.png.png))
 
 👨‍💻 Author
 Name: Talha-Abbaci
