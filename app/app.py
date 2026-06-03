@@ -9,8 +9,17 @@ from nltk.corpus import stopwords
 from nltk.stem.porter import PorterStemmer
 
 # Load model and vectorizer
-model = pickle.load(open("sentiment_model.pkl", "rb"))
-vectorizer = pickle.load(open("tfidf_vectorizer.pkl", "rb"))
+import os
+
+BASE_DIR = os.path.dirname(__file__)
+
+model = pickle.load(
+    open(os.path.join(BASE_DIR, "sentiment_model.pkl"), "rb")
+)
+
+vectorizer = pickle.load(
+    open(os.path.join(BASE_DIR, "tfidf_vectorizer.pkl"), "rb")
+)
 
 # Initialize stemmer
 port_stem = PorterStemmer()
