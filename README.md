@@ -92,6 +92,9 @@ numpy
 scikit-learn
 nltk
 ```
+
+Updated
+
 ## 👨‍💻 Author
 
 **Talha Abbasi**
