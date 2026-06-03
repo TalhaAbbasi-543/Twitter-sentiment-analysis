@@ -49,8 +49,6 @@ A Streamlit web app is built for real-time prediction.
 
 ---
 
-## 📁 Project Structure
-
 ## Project Structure
 
 ```text
