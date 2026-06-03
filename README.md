@@ -12,13 +12,15 @@ A Streamlit web app is built for real-time prediction.
 - Machine Learning model (Logistic Regression)
 - Real-time sentiment prediction using Streamlit
 - Simple and interactive UI
+---
 
-  
 🚀 Live Demo
+
 🔗 Try the App:
 https://twitter-sentiment-analysis-g2sfygygqjqf47wowaknd9.streamlit.app/
 
----
+
+
 
 ## 📊 Dataset
 - **Sentiment140 Dataset (Kaggle)**
