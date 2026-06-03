@@ -91,7 +91,11 @@ pandas
 numpy
 scikit-learn
 nltk
+```
+## 👨‍💻 Author
 
-👨‍💻 Author
-Name: Talha-Abbaci
-Email: talhaabbaci543@gmail.com
+**Talha Abbasi**
+
+📧 Email: [talhaabbaci543@gmail.com](mailto:talhaabbaci543@gmail.com)
+
+🐙 GitHub: [TalhaAbbasi-543](https://github.com/TalhaAbbasi-543)
